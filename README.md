@@ -6,13 +6,13 @@
 
 - 🔭 I’m currently working on **Music Application**
 
-- 🌱 I’m currently learning **JavaScript,Python and MERN**
+- 🌱 I’m currently learning **JavaScript,MERN**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 👨‍💻 All of my projects are available at [https://mantukumaryadav.github.io/MyPortfolio.github.io/](https://mantukumaryadav.github.io/MyPortfolio.github.io/)
 
-- 💬 Ask me about **HTML5,CSS3,JavaScript,Python,MySQL**
+- 💬 Ask me about **HTML5,CSS3,Bootstrap,JavaScript,jQuery,React,Node,Express and MongoDB**
 
 - 📫 How to reach me **mantukr446@gmail.com**
 
