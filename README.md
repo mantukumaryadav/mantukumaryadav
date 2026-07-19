@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://mantu-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/mantu-kumar-yadav-186057171/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:mantukr446@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:mantutech23@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -47,7 +47,6 @@
 
 ### 🚀 Featured Projects
 
-> Replace these with your 3-4 strongest repos — link each to its live demo + GitHub repo. Pin them on your profile too.
 
 | Project | Description | Tech | Links |
 |---|---|---|---|
